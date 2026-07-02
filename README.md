@@ -8,7 +8,6 @@ An interactive Power BI dashboard analysing hospital operational performance acr
 
 ## 🔗 View the Interactive Dashboard
 
-**[Open the live interactive report →] https://app.powerbi.com/links/88FJ7VY5rV?ctid=d02378ec-1688-46d5-8540-1c28b5f470f6&pbi_source=linkShare**
 
 The live version supports full interactivity, department slicers, waiting time range filters, and cross filtering across all visuals. No login or software required; it opens directly in your browser.
 
