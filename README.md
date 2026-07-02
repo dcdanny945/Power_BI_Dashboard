@@ -22,6 +22,18 @@ The live version supports full interactivity, department slicers, waiting time r
 
 *Executive overview: KPI summary, departmental patient load, service quality, and length of stay analysis, all connected through interactive slicers.*
 
+Interactive Filtering
+The report responds to a Department slicer and a Waiting Time range filter. Selecting a department instantly updates every visual on the page, letting the viewer drill into a single service line.
+![Hospital Operations Dashboard - Director View](./screenshots/dashboard_department_filter.png)
+
+
+Example: filtering to the Emergency department. All KPIs and visuals update in sync to show that department's patient volume, satisfaction, waiting time, and length of stay.
+
+![Hospital Operations Dashboard - Director View](./screenshots/dashboard_department_filter_wait-time_filter.png)
+
+
+
+
 ---
 
 ## 📊 What the Dashboard Shows
@@ -68,6 +80,6 @@ An interactive **Department slicer** and **Waiting Time range filter** let the v
 
 ## 👤 About
 
-Built by **Danny Chen**, Master of Business Analytics candidate at Deakin University (graduating 2026), as a portfolio piece demonstrating end-to-end BI development — from data preparation through to an interactive, decision-focused dashboard.
+Built by **Danny Chen**, Master of Business Analytics candidate at Deakin University (graduating 2027 T1), as a portfolio piece demonstrating end-to-end BI development — from data preparation through to an interactive, decision-focused dashboard.
 
 📍 Melbourne, VIC
