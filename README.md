@@ -22,12 +22,13 @@ The live version supports full interactivity, department slicers, waiting time r
 
 *Executive overview: KPI summary, departmental patient load, service quality, and length of stay analysis, all connected through interactive slicers.*
 
-Interactive Filtering
-The report responds to a Department slicer and a Waiting Time range filter. Selecting a department instantly updates every visual on the page, letting the viewer drill into a single service line.
+### Interactive Filtering
+**Interactive filtering in action:** selecting the **Emergency** department instantly updates every visual on the page: KPIs, satisfaction trend, patient load, and length of stay all reflect that single service line.
+
 ![Hospital Operations Dashboard - Director View](./screenshots/dashboard_department_filter.png)
 
 
-Example: filtering to the Emergency department. All KPIs and visuals update in sync to show that department's patient volume, satisfaction, waiting time, and length of stay.
+**Both filters are in play here:** the Waiting Time range slider narrows the data,while a custom tooltip reveals Emergency's exact figures on hover, 92.8 minutes average wait, 6.59 average satisfaction, and a 75% successful patient rate.
 
 ![Hospital Operations Dashboard - Director View](./screenshots/dashboard_department_filter_wait-time_filter.png)
 
